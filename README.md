@@ -26,7 +26,7 @@ This reporsitory contain information about the work performed on the final proje
     ```bash
     jupyter notebook
     ```
-6. In the Jupyter Notebook interface, navigate to the directory containing your `.ipynb` file.
+6. In the Jupyter Notebook interface, navigate to the directory containing the `.ipynb` file.
 7. Click on the `.ipynb` file to open it.
 8. Execute the cells in the notebook one by one to run the code.
 9. The script will iterate over the images in the dataset directory, identify the region with the highest activation of a specific neuron in each image, draw a green rectangle around that region, and display the result.
